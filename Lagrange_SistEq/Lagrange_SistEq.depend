@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1654393539 source:c:\users\juan cruz\documents\upe\eda2\lagrangesisteq\lagrange_sisteq\gauss.cpp
+	"gauss.h"
+
+1654387782 c:\users\juan cruz\documents\upe\eda2\lagrangesisteq\lagrange_sisteq\gauss.h
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+
+1654396473 source:c:\users\juan cruz\documents\upe\eda2\lagrangesisteq\lagrange_sisteq\lagrange.cpp
+	"lagrange.h"
+
+1654387961 c:\users\juan cruz\documents\upe\eda2\lagrangesisteq\lagrange_sisteq\lagrange.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+
+1654385831 source:c:\users\juan cruz\documents\upe\eda2\lagrangesisteq\lagrange_sisteq\main.cpp
+	"gauss.h"
+	"lagrange.h"
+
+1654388287 source:c:\users\juan cruz\documents\upe\eda2\lagrangesisteq\lagrange_sisteq\menugauss.cpp
+	"gauss.h"
+
+1654388467 source:c:\users\juan cruz\documents\upe\eda2\lagrangesisteq\lagrange_sisteq\menulagrange.cpp
+	"lagrange.h"
+
